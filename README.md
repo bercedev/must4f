@@ -11,5 +11,7 @@
   [![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=must4f&layout=compact&theme=tokyonight)](https://github.com/must4f)
 
   </details>
+<div align="center">
   ________________________________
+  </div>
 </samp>
